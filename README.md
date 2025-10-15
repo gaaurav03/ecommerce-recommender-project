@@ -14,10 +14,6 @@ Tired of endlessly scrolling through electronics online? This product recommende
 * **📱 Fully Responsive**: Looks and works great whether you're on a desktop, tablet, or phone.
 * **⚡ Real-time Updates**: Filters and sorting apply instantly, no waiting around!
 
-***
-## Demo Video
-[![Watch the video](https://img.youtube.com/vi/Q3hV2XMhzjk/maxresdefault.jpg)](https://www.youtube.com/watch?v=Q3hV2XMhzjk)
-
  
 ## Technology Used
 
